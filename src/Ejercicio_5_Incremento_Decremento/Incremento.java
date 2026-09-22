@@ -1,0 +1,19 @@
+package Ejercicio_5_Incremento_Decremento;
+
+public class Incremento {
+    public static void main(String[] args) {
+        int c;
+
+        c = 5;
+
+        System.out.println(c);
+        System.out.println(c++);
+        System.out.println(c);
+
+        System.out.println();
+
+        System.out.println(c);
+        System.out.println(++c);
+        System.out.println(c);
+    }
+}
